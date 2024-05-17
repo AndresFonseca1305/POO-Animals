@@ -2,7 +2,7 @@ package interfaces;
 
 public interface Acuaticos {
 
-        void nadar();
+        String nadar();
 
-        void bucear();
+        String bucear();
 }
