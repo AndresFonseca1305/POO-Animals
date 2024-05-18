@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19b9f223-8f4f-4744-93ef-8c53d064bc6b" name="Changes" comment="correct">
-      <change afterPath="$PROJECT_DIR$/src/animalesSalvajes/Pato.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Virtual/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Virtual/AnimalesDomesticos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Virtual/AnimalesSalvajes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Virtual/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Virtual/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Virtual/Perro.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/animalesSalvajes/Aguila.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/animalesSalvajes/Cocodrilo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animalesSalvajes/Cocodrilo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/animalesSalvajes/Leon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animalesSalvajes/Leon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaces/Acuaticos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaces/Acuaticos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
